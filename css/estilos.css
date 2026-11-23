@@ -1,0 +1,63 @@
+
+
+/* Diseño general */
+body {
+    font-family: Arial;
+    background-color: hsl(0, 54%, 20%);
+    color: black;
+    margin: 0;
+}
+
+/* encabezado */
+header {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Menu */
+nav {
+    background-color: #0c1216;
+    text-align: center;
+    padding: 15px;
+}
+
+/* enlaces del menu */
+nav a {
+    color: white;
+    font-size: 16px;
+    margin: 10px;
+}
+
+/* contenido  */
+main {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* titulos */
+h2 {
+    color: #8b0202;
+}
+
+h3 {
+    color: #8b0202;
+
+/* parrafos */
+p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+/* articulo*/
+article {
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #ffffff;
+    color:rgb(245, 245, 245);
+    text-align:center;
+    padding: 15px;
+}
